@@ -13,6 +13,6 @@
 
 ---
 
-## What can you find here? 🧐🤔
+## What can you find here? 🧐 🤔
 
 Not loads, for now...
