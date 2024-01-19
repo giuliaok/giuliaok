@@ -9,7 +9,7 @@
 [twitter]:https://twitter.com/GiuliaOcchini
 [linkedin]: https://www.linkedin.com/in/giulia-occhini-7a21b8122/
 
-## I am a Postdoctoral researcher @ Language Technology Lab, Cambridge University
+## I am a Postdoctoral researcher @ Language Technology Lab, University of Cambridge
 
 ## Previous hats I wore: 
 
