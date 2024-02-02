@@ -11,10 +11,6 @@
 
 ## I am a Postdoctoral researcher @ Language Technology Lab, University of Cambridge
 
-## Previous hats I wore: 
-
-
-
 ---
 
 ## What can you find here? 🧐 🤔
